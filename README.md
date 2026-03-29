@@ -86,12 +86,11 @@ Portfolio website showcasing development projects and services.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlmaxRehman\&show_icons=true)
+![Ilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlmaxRehman&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman&layout=compact)
 
 ---
-
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms (Striver A2Z Sheet)
