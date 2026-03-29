@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=160&section=header&text=Ilma%20Rehman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 # Ilma Rehman
 
 Backend developer interested in building reliable systems and practical AI applications.
