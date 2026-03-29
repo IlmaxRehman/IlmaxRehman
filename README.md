@@ -82,6 +82,11 @@ Portfolio website showcasing development projects and services.
 * System design fundamentals
 
 ---
+## Contributions
+
+![Snake animation](https://github.com/IlmaxRehman/IlmaxRehman/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## Activity Graph
 
 [![Ilma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlmaxRehman&hide_border=true)](https://github.com/IlmaxRehman)
