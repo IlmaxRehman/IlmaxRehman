@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=170&section=header&text=Ilma%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
----
+
 Backend Engineering | AI Applications | Django | Computer Vision
 
 I enjoy building systems that solve real problems — from misinformation detection tools to web platforms.
