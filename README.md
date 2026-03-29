@@ -64,9 +64,9 @@ Portfolio website showcasing development projects and services.
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlmaxRehman)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlmaxRehman&show_icons=true&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman&layout=compact&hide_border=true" />
 
 ---
 
