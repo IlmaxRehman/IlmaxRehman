@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=170&section=header&text=Ilma%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 ---
-Backend Developer | AI Systems | Django | Computer Vision
+Backend Engineering | AI Applications | Django | Computer Vision
 
-
-Backend developer interested in building reliable systems and practical AI applications.
-
-I enjoy turning ideas into working software — from misinformation detection tools to web platforms.
+I enjoy building systems that solve real problems — from misinformation detection tools to web platforms.
 
 * Built **Truth Guard**, an AI-based misinformation detection system that won a university project exhibition.
 * Currently developing **Trivoya Travels**, a Django-based platform for Golden Triangle tour packages.
