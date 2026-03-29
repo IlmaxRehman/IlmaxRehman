@@ -1,108 +1,89 @@
-# Hi, I'm Ilma Rehman 👋
+# Ilma Rehman
 
-Backend Developer building AI-powered tools and real-world platforms.
+Backend developer interested in building reliable systems and practical AI applications.
 
-I enjoy turning ideas into working systems — from misinformation detection tools to full web platforms.
+I enjoy turning ideas into working software — from misinformation detection tools to web platforms.
 
-🏆 Built **Truth Guard**, an AI system for detecting misinformation that won a university project competition.
+* Built **Truth Guard**, an AI-based misinformation detection system that won a university project exhibition.
+* Currently developing **Trivoya Travels**, a Django-based platform for Golden Triangle tour packages.
+* Interested in backend engineering, distributed systems, and cloud infrastructure.
 
-🌍 Currently developing **Trivoya Travels**, a Django-based platform for Golden Triangle tour packages.
-
-⚙️ Interests:
-
-* Backend Engineering
-* Cloud & Scalable Systems
-* AI-powered Applications
-
-📚 Currently learning **Data Structures & Algorithms** while continuing to build real-world projects.
+Currently studying **Data Structures & Algorithms** while continuing to build projects.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Languages
+Languages
+Python • Java • JavaScript • C • SQL
 
-Python | Java | JavaScript | C | SQL
+Backend
+Django • FastAPI • REST APIs
 
-### Backend
+Machine Learning
+NumPy • Scikit-learn • YOLO • OpenCV
 
-Django | FastAPI | REST APIs
+Tools
+Git • GitHub • OCR • Computer Vision
 
-### AI / Machine Learning
+Design
+Figma (basic) • Canva
 
-NumPy | Scikit-Learn | YOLO | OpenCV
-
-### Tools
-
-Git | GitHub | OCR | Computer Vision
-
-### Design
-
-Figma (Basic) | Canva
-
-### Currently Exploring
-
-Cloud & Scalable Systems
+Currently exploring
+Cloud infrastructure and scalable backend systems
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### Truth Guard
+**Truth Guard**
+AI system for detecting misinformation by extracting factual claims and verifying them using NLP models.
+Tech: Python, FastAPI, NLP, OCR
 
-AI-based fake news detection system that extracts factual claims from news content and verifies them using NLP models.
+**Trivoya Travels**
+Travel platform focused on Golden Triangle tour packages.
+Tech: Django, REST APIs, JavaScript
 
-**Tech:** Python, FastAPI, NLP, OCR
-
-### Trivoya Travels
-
-Travel platform for Golden Triangle tours with tour listings and booking features.
-
-**Tech:** Django, REST APIs, JavaScript
-
-### Sentinel Cyber Defence
-
+**Sentinel Cyber Defence**
 Cybersecurity-focused project analyzing potential digital threats and vulnerabilities.
 
-### YOLO Model Experiment
+**YOLO Model Experiment**
+Object detection experiments using the YOLO architecture.
+Tech: Python, OpenCV, YOLO
 
-Object detection project experimenting with YOLO for real-time visual recognition.
+**Dot2Line – Kolam Regeneration**
+Project exploring algorithmic generation of traditional Kolam patterns.
 
-**Tech:** Python, OpenCV, YOLO
+**Travel Website (HTML/CSS/JS)**
+Frontend travel interface built using vanilla HTML, CSS, and JavaScript.
 
-### Dot2Line – Kolam Regeneration
-
-Project that converts traditional Kolam patterns into digital line structures.
-
-### Travel Website (HTML/CSS/JS)
-
-Frontend travel website interface built using vanilla HTML, CSS and JavaScript.
-
-### Agency Portfolio
-
+**Agency Portfolio**
 Portfolio website showcasing development projects and services.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-![Ilma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlmaxRehman&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlmaxRehman)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlmaxRehman)
 
 ---
-## 📚 Currently Learning
 
-* Data Structures & Algorithms (Striver A2Z Sheet)
+## Currently Learning
+
+* Data Structures & Algorithms (Striver A2Z)
 * Backend architecture with Django
-* AI/ML model integration
+* Machine learning model integration
 * System design fundamentals
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
 GitHub: https://github.com/IlmaxRehman
 LinkedIn: https://www.linkedin.com/in/ilma-rehman-b86020309
 Email: [ilmarehman022@gmail.com](mailto:ilmarehman022@gmail.com)
+
+
 
