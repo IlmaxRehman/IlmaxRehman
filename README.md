@@ -64,13 +64,6 @@ Frontend travel interface built using vanilla HTML, CSS, and JavaScript.
 **Agency Portfolio**
 Portfolio website showcasing development projects and services.
 
----
-
-## GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IlmaxRehman&show_icons=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IlmaxRehman&layout=compact&hide_border=true"/>
 
 ---
 
