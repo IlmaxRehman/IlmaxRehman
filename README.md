@@ -29,6 +29,10 @@ Git • GitHub • OCR • Computer Vision
 Design
 Figma (basic) • Canva
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,django,fastapi,opencv,git,github,figma" />
+</p>
+
 Currently exploring
 Cloud infrastructure and scalable backend systems
 
