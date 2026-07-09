@@ -91,6 +91,9 @@ Django • REST APIs • React • MySQL
 
 🔗 https://github.com/IlmaxRehman/Trivoya-Travels
 
+🌐 Live
+trivoya-travels.vercel.app
+
 ---
 
 ### 🤖 BulletCraft AI
