@@ -7,11 +7,12 @@ Backend Engineer • Generative AI • Building Real Products
 </h3>
 
 <p align="center">
-Building production-grade backend systems and AI-powered applications.
+Turning ideas into reliable backend systems and Generative AI applications.
 </p>
 
 <p align="center">
-Cybersecurity + AI Intern @ <b>DRDO ADRDE</b> • 🏆 AI & Cybersecurity Conclave 2025 Winner
+Cybersecurity + AI Intern @ <b>DRDO ADRDE (Ministry of Defence, India)</b><br>
+🏆 Winner — AI & Cybersecurity Conclave 2025
 </p>
 
 ---
@@ -19,23 +20,18 @@ Cybersecurity + AI Intern @ <b>DRDO ADRDE</b> • 🏆 AI & Cybersecurity Concla
 # 🌸 Tech Stack
 
 ### Backend
-
 FastAPI • Django • REST APIs • Celery • Redis
 
 ### Databases
-
 PostgreSQL • MySQL • MongoDB
 
 ### AI / ML
-
 HuggingFace • Gemini API • Groq API • NLP • Scikit-learn • YOLOv8
 
 ### DevOps
-
 Docker • Docker Compose • Git • Linux
 
 ### Languages
-
 Python • JavaScript • Java • C
 
 <br>
@@ -48,19 +44,19 @@ Python • JavaScript • Java • C
 
 # 💻 Featured Projects
 
-### 🚀 Transaction Processing Pipeline
+### 🚀 Transaction Processing Platform
 
-Production-ready asynchronous transaction processing platform.
+Production-ready asynchronous financial transaction platform.
 
 **Stack**
 
-FastAPI • Celery • Redis • PostgreSQL • Docker • Gemini AI
+`FastAPI` • `Celery` • `Redis` • `PostgreSQL` • `Docker` • `Gemini AI`
 
-Features
+✨ Features
 
 - Event-driven architecture
 - AI-assisted categorization
-- Fraud / anomaly detection
+- Fraud & anomaly detection
 - Swagger API documentation
 
 🔗 https://github.com/IlmaxRehman/Transaction-Processing-Platform
@@ -69,13 +65,13 @@ Features
 
 ### 🧠 TruthGuard
 
-AI-powered fact verification system.
+AI-powered misinformation detection and fact verification system.
 
-🏆 Winner — Sharda University AI & Cybersecurity Conclave 2025
+🏆 Winner — AI & Cybersecurity Conclave 2025
 
 **Stack**
 
-FastAPI • NLP • OCR • HuggingFace
+`FastAPI` • `HuggingFace` • `OCR` • `NLP`
 
 🔗 https://github.com/IlmaxRehman/TRUTH-GUARD
 
@@ -83,15 +79,16 @@ FastAPI • NLP • OCR • HuggingFace
 
 ### 🌍 Trivoya Travels
 
-Full-stack tour booking platform.
+Full-stack travel booking platform.
 
 **Stack**
 
-Django • REST APIs • React • MySQL
+`Django` • `REST APIs` • `React` • `MySQL`
 
-🔗 https://github.com/IlmaxRehman/Trivoya-Travels
+🔗 Repository  
+https://github.com/IlmaxRehman/Trivoya-Travels
 
-🌐 Live
+🌐 Live  
 https://trivoya-travels.vercel.app/
 
 ---
@@ -102,29 +99,50 @@ AI-powered resume bullet generator.
 
 **Stack**
 
-FastAPI • Groq (Llama) • React
+`FastAPI` • `Groq (Llama)` • `React`
 
-🔗 Repository
+🔗 Repository  
 https://github.com/IlmaxRehman/hero-bullet-ai
 
-🌐 Live
+🌐 Live  
 https://hero-bullet-ai.vercel.app
 
 ---
 
-## 🌱 Currently Working On
+# 🌱 Currently Working On
 
-- Learning **Generative AI** and building AI-powered applications
-- Solving **Data Structures & Algorithms** (Striver A2Z)
-- Studying **System Design**
-- Building backend applications with **FastAPI** and **Django**
+- 🤖 Learning **Generative AI** and building AI-powered applications
+- 📚 Solving **Data Structures & Algorithms** (Striver A2Z)
+- 🏗️ Studying **System Design**
+- ⚡ Building backend applications with **FastAPI** and **Django**
 
 ---
 
-# ☁️ Connect
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IlmaxRehman&theme=github-light&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/IlmaxRehman/IlmaxRehman/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+# 📫 Connect
+
+<p align="center">
 
 📧 **ilmarehman022@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/ilma-rehman-b86020309
+
+</p>
+
+
