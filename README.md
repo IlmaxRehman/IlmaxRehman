@@ -112,23 +112,12 @@ https://hero-bullet-ai.vercel.app
 
 ---
 
-# 🌱 Currently Building
+## 🌱 Currently Working On
 
-### DeepCheck
-
-Deepfake & AI image detection platform
-
-FastAPI • HuggingFace • Sightengine
-
----
-
-### Learning
-
-• Striver A2Z DSA Sheet
-
-• System Design
-
-• Cloud & Distributed Systems
+- Learning **Generative AI** and building AI-powered applications
+- Solving **Data Structures & Algorithms** (Striver A2Z)
+- Studying **System Design**
+- Building backend applications with **FastAPI** and **Django**
 
 ---
 
