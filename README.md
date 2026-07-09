@@ -92,7 +92,7 @@ Django • REST APIs • React • MySQL
 🔗 https://github.com/IlmaxRehman/Trivoya-Travels
 
 🌐 Live
-trivoya-travels.vercel.app
+https://trivoya-travels.vercel.app/
 
 ---
 
