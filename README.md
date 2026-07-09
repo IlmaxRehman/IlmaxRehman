@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Backend Engineer • AI Integration • Cloud Computing
+Backend Engineer • Generative AI • Building Real Products
 </h3>
 
 <p align="center">
