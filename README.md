@@ -1,96 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=170&section=header&text=Ilma%20Rehman&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+# Ilma Rehman
 
-Backend Engineering | AI Applications | Django | Computer Vision
+Backend Engineer · AI Integration · Python · FastAPI · Django
 
-I enjoy building systems that solve real problems — from misinformation detection tools to web platforms.
-
-* Built **Truth Guard**, an AI-based misinformation detection system that won a university project exhibition.
-* Currently developing **Trivoya Travels**, a Django-based platform for Golden Triangle tour packages.
-* Interested in backend engineering, distributed systems, and cloud infrastructure.
-
-Currently studying **Data Structures & Algorithms** while continuing to build projects.
+Building production-grade backend systems and AI-powered applications.
+Cybersecurity + AI Intern @ DRDO ADRDE (Ministry of Defence, Govt. of India)
+🏆 1st Place — Sharda University AI & Cybersecurity Conclave 2025
 
 ---
 
 ## Tech Stack
 
-Languages
-Python • Java • JavaScript • C • SQL
-
-Backend
-Django • FastAPI • REST APIs
-
-Machine Learning
-NumPy • Scikit-learn • YOLO • OpenCV
-
-Tools
-Git • GitHub • OCR • Computer Vision
-
-Design
-Figma (basic) • Canva
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,django,fastapi,opencv,git,github,figma" />
-</p>
-
-Currently exploring
-Cloud infrastructure and scalable backend systems
+**Backend:** FastAPI · Django · REST APIs · Celery · Redis  
+**Databases:** PostgreSQL · MySQL · MongoDB  
+**AI/ML:** HuggingFace · Gemini API · Groq API · NLP · Scikit-learn · YOLOv8  
+**DevOps:** Docker · Docker Compose · Git · Linux  
+**Languages:** Python · JavaScript · Java · C  
 
 ---
 
 ## Projects
 
-**Truth Guard**
-AI system for detecting misinformation by extracting factual claims and verifying them using NLP models.
-Tech: Python, FastAPI, NLP, OCR
+**Transaction Processing Pipeline**  
+Async financial transaction API — FastAPI + Celery + Redis + PostgreSQL + Docker + Gemini AI  
+→ Event-driven architecture, AI-assisted categorization, anomaly detection, full Swagger docs  
+[GitHub](https://github.com/IlmaxRehman/Transaction-Processing-Platform)
 
-**Trivoya Travels**
-Travel platform focused on Golden Triangle tour packages.
-Tech: Django, REST APIs, JavaScript
+**TruthGuard — Fact Verification System**  
+End-to-end misinformation detection using FastAPI + NLP (BART-MNLI) + OCR  
+🏆 Winner — Sharda University AI & Cybersecurity Conclave 2025  
+[GitHub](https://github.com/IlmaxRehman/TRUTH-GUARD)
 
-**Sentinel Cyber Defence**
-Cybersecurity-focused project analyzing potential digital threats and vulnerabilities.
+**Trivoya Travels — Full Stack Tour Platform**  
+Django + REST APIs + MySQL + React.js — deployed tour booking platform  
+[GitHub](https://github.com/IlmaxRehman/Trivoya-Travels)
 
-**YOLO Model Experiment**
-Object detection experiments using the YOLO architecture.
-Tech: Python, OpenCV, YOLO
-
-**Dot2Line – Kolam Regeneration**
-Project exploring algorithmic generation of traditional Kolam patterns.
-
-**Travel Website (HTML/CSS/JS)**
-Frontend travel interface built using vanilla HTML, CSS, and JavaScript.
-
-**Agency Portfolio**
-Portfolio website showcasing development projects and services.
-
+**BulletCraft AI — Resume Bullet Generator**  
+FastAPI + Groq (Llama) + React — live deployed AI tool  
+[GitHub](https://github.com/IlmaxRehman/hero-bullet-ai) · 
+[Live](https://hero-bullet-ai.vercel.app)
 
 ---
 
-## Currently Learning
-
-* Data Structures & Algorithms (Striver A2Z)
-* Backend architecture with Django
-* Machine learning model integration
-* System design fundamentals
-
----
-## Contributions
-
-![Snake animation](https://github.com/IlmaxRehman/IlmaxRehman/blob/output/github-contribution-grid-snake.svg)
-
----
-## Activity Graph
-
-[![Ilma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlmaxRehman&hide_border=true)](https://github.com/IlmaxRehman)
+## Currently Building
+- **DeepCheck** — deepfake and AI image detection system (FastAPI + HuggingFace + Sightengine)
+- **DSA:** Striver A2Z Sheet — currently on Binary Search → Trees
 
 ---
 
 ## Contact
-
-GitHub: https://github.com/IlmaxRehman
-LinkedIn: https://www.linkedin.com/in/ilma-rehman-b86020309
-Email: [ilmarehman022@gmail.com](mailto:ilmarehman022@gmail.com)
-
-
-
+📧 ilmarehman022@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ilma-rehman-b86020309)
